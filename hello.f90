@@ -26,9 +26,7 @@ program helloworld
 	endif
 	
 	parada = fp-fb
-!	if (parada<(10**(-15))) then
-!		I=n
-!	endif
+
 	enddo
 	
 	
